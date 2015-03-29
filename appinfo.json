@@ -1,0 +1,72 @@
+{
+    "appKeys": {
+        "date-format": 1,
+        "invert": 2,
+        "show-date": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "jamiehegarty@hotmail.com",
+    "longName": "Hybrid",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/battery_half.png",
+                "name": "BATTERY_HALF",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_full.png",
+                "name": "BATTERY_FULL",
+                "type": "png"
+            },
+            {
+                "file": "images/bolt.png",
+                "name": "BOLT_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/battery.png",
+                "name": "BATTERY_EMPTY",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/imagine.ttf",
+                "name": "IMAGINE_28",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/imagine.ttf",
+                "name": "IMAGINE_32",
+                "type": "font"
+            },
+            {
+                "file": "images/black_line_long.png",
+                "name": "BLACK_LINE_LONG",
+                "type": "png"
+            },
+            {
+                "file": "images/charging_long.png",
+                "name": "CHARGING_LINE_LONG",
+                "type": "png"
+            },
+            {
+                "file": "images/white_line_long.png",
+                "name": "WHITE_LINE_LONG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Hybrid",
+    "uuid": "6a994603-d54a-431d-a738-34707523d056",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
